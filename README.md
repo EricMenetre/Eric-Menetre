@@ -18,3 +18,13 @@ The other half of my working time, I work as research assistant in the EEG and E
 ## Publications : 
 
 comming soon
+
+## Essai
+
+``` {r}
+a <- 3
+b <- 5
+c <- a+b
+
+print(paste("a est égal à", a, "b est égal à", b, "et la somme fait", c))
+```
