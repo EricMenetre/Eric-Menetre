@@ -27,6 +27,6 @@ Office 124
 Bd. du pont-d'Arve, 28
 1205 Genève
 
-[University webpage](https://www.unige.ch/fapse/psycholinguistique/equipes/npl/membres/eric-menetre/)
-[Linkedin profile](https://www.linkedin.com/in/EricMenetre/)
-[researchgate](https://www.researchgate.net/profile/Eric_Menetre)
+[University webpage](https://www.unige.ch/fapse/psycholinguistique/equipes/npl/membres/eric-menetre/)<b>
+[Linkedin profile](https://www.linkedin.com/in/EricMenetre/)<b>
+[researchgate](https://www.researchgate.net/profile/Eric_Menetre) <b>
