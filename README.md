@@ -1,4 +1,4 @@
-<img src= "https://i1.rgstatic.net/ii/profile.image/534997740290048-1504564809663_Q512/Eric_Menetre.jpg" width="100" height="200">
+<img src= "https://i1.rgstatic.net/ii/profile.image/534997740290048-1504564809663_Q512/Eric_Menetre.jpg" width="100" height="150">
       
 
 # Welcome to my GitHub page
