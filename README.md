@@ -20,3 +20,11 @@ The other half of my working time, I work as research assistant in the EEG and E
 comming soon
 
 
+## Contact : 
+
+Eric Ménétré 
+Office 124
+Bd. du pont-d'Arve, 28
+1205 Genève
+
+[University webpage](https://www.unige.ch/fapse/psycholinguistique/equipes/npl/membres/eric-menetre/)
