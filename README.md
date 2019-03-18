@@ -1,3 +1,6 @@
+<img src= "Eric-Menetre/886196-best-desktop-wallpaper-mountains-2560x1600-tablet.jpg">
+      
+
 # Welcome to my GitHub page
 
 ## About me: 
