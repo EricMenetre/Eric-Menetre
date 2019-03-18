@@ -6,7 +6,7 @@ The other half of my working time, I work as research assistant in the EEG and E
 
 ## Current projects : 
 
-* Dynmic of language production over the lifespan 
+* Dynamic of language production over the lifespan 
 * Creation of a normative database for the verbal fluency test
 * ERP decomposition of the Stroop effect over the lifespan : qualitative and qualtitative modulations
 * ERP dynamic of a Hayling task
