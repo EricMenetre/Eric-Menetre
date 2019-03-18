@@ -7,13 +7,13 @@ The other half of my working time, I work as research assistant in the EEG and E
 
 ## Current projects : 
 
-[] Dynamic of language production over the lifespan 
-[] Creation of a normative database for the verbal fluency test
-[] ERP decomposition of the Stroop effect over the lifespan : qualitative and qualtitative modulations
-[] ERP dynamic of a Hayling task
-[] First epileptic seizure : an epidemiologic and statistical modelling of the problematic
-[] Brain connectivity changes in surgical treatment of epilepsy : neuropsychological implications 
-[] Learning to trust a face: the time course of brain activation during a money game
+* Dynamic of language production over the lifespan 
+* Creation of a normative database for the verbal fluency test
+* ERP decomposition of the Stroop effect over the lifespan : qualitative and qualtitative modulations
+* ERP dynamic of a Hayling task
+* First epileptic seizure : an epidemiologic and statistical modelling of the problematic
+* Brain connectivity changes in surgical treatment of epilepsy : neuropsychological implications 
+* Learning to trust a face: the time course of brain activation during a money game
 
 ## Publications : 
 
