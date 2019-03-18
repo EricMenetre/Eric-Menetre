@@ -13,7 +13,7 @@ The other half of my working time, I work as research assistant in the EEG and E
 * ERP dynamic of a Hayling task
 * First epileptic seizure : an epidemiologic and statistical modelling of the problematic
 * Brain connectivity changes in surgical treatment of epilepsy : neuropsychological implications 
-- [] Learning to trust a face: the time course of brain activation during a money game
+- [ ] Learning to trust a face: the time course of brain activation during a money game
 
 ## Publications : 
 
