@@ -32,4 +32,4 @@ Bd. du pont-d'Arve, 28
 
 [University webpage](https://www.unige.ch/fapse/psycholinguistique/equipes/npl/membres/eric-menetre/)<br>
 [Linkedin profile](https://www.linkedin.com/in/EricMenetre/)<br>
-[researchgate](https://www.researchgate.net/profile/Eric_Menetre) <br>
+[Researchgate](https://www.researchgate.net/profile/Eric_Menetre) <br>
